@@ -101,6 +101,6 @@ def fibonacci_recursive(n):
     print("This is a correct Fibonacci")
 
 
-print(f"Fibonacci number: {fibonacci_recursive(10)}")
+print(f"Fibonacci number: {fibonacci_recursive(2)}")
 
     
